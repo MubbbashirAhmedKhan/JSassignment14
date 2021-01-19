@@ -1,22 +1,3 @@
-// var cap=prompt("Enter a letter");
-// document.write(cap.toUpperCase());
-
-// var userInput=prompt("Enter your name");
-// title=userInput.charAt(0).toUpperCase();
-// title1=userInput.substr(1).toLowerCase();
-// document.write(title+title1);
-
-// var mob=prompt("Enter your favourite mobile phone model");
-// var len=mob.length;
-// document.write("Lenght of the string: "+len)
-
-// var str=prompt("Enter a string");
-// document.write(str.slice(-1));
-
-// var str = "Hello world, welcome to the universe.";
-// var n = str.indexOf("welcome");
-// document.write("welcome")
-
 
 
 // var a = new Date();
