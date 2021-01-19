@@ -1,4 +1,4 @@
-
+//    "DATE METHOD"
 
 // var a = new Date();
 // var b = a.getDate();
@@ -78,7 +78,8 @@
 // var netAmount = numberOfunits * chargesPerunit;
 // var grossAmount = netAmount + latePaymentsurcharge;
 // document.write("<h1>K-Electric Bill</h1>" + "Customer Name" + ":" + "Mubbashir" + "<br>" + "Month" + ":" + "January" + "<br>" + "Number of units" + ":" + 410 + "<br>" + "Cherges per unit" + ":" + 16 + "<br><br>" + "Net amount payable (withindue date)" + ":" + netAmount + "<br>" + "Late payment surcharge" + ":" + latePaymentsurcharge + "<br>" + "Gross amount payable(after due date" + ":" + grossAmount)
-
+          
+//     "FUNCTION"
 // function time(){
 //     var a = new Date();
 //     var b = a.getDate();
@@ -214,7 +215,7 @@
 //   answer = factorial(n)
 //   console.log("The factorial of " + n + " is " + answer);
 
-
+//                " FIUNCTION...SWITCH..WHILE ..DO-WHILE "
 
 // function sum(a, b) {
 //     var a = +prompt("please enter a number");
@@ -265,17 +266,6 @@
 //   `The area of the triangle is ${areaValue}`
 // );
 
-function vowelCut(string){
-    
-    let wordArray = string.split(" ")
-    let stringWithYAsVowelRemoved = wordArray.map(word => {
-       if (/[yY]/.test(word)){
-          if (YIsAVowel(word)){
-             return word.replace(/[yY]/, "")
-          } else {return word}
-       } else {return word}
-    }).join(" ")
-    
-  }
+//                  "THE END ! "
 
 
